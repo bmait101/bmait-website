@@ -14,3 +14,4 @@ header:
   caption: ""
   image: ""
 ---
+For a full list publications, see my [Google Scholar page](https://scholar.google.ca/citations?user=tGn-FzAAAAAJ&hl=en). 
