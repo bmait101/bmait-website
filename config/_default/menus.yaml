@@ -17,7 +17,7 @@ main:
     url: 'publication/'
     weight: 40
   - name: Photos
-    url: 
+    url: 'photos/'
     weight: 50
   - name: CV
     url: uploads/cv.pdf
