@@ -1,5 +1,6 @@
 ---
 widget: blank
+title: My New Section
 
 ---
 
