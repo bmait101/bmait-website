@@ -1,5 +1,4 @@
 ---
-widget: blank
 title: 
 
 ---
