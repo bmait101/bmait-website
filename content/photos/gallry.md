@@ -1,5 +1,5 @@
 ---
-title: Photo Gallery
+widget: blank
 
 ---
 
