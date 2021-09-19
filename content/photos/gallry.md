@@ -1,6 +1,6 @@
 ---
 widget: blank
-title: "Research"  # Add a page title.
+title: 
 
 ---
 
