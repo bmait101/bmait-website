@@ -1,9 +1,9 @@
 ---
-title: My New Section
+title: Photo Galleries
 
 ---
 
-Fun Gallery: 
+**Fun Gallery: ** 
 {{< gallery album="pics" >}}
 
 
