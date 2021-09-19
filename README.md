@@ -1,2 +1,3 @@
 # bmait-website
-Personal website of Bryan M Maitland
+
+Repo for personal website of Bryan M Maitland. 
