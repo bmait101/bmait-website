@@ -3,7 +3,7 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: Wisconsin Water Resources Science-Policy Postdoc Fellow
+role: Wisconsin Water Resources Science-Policy Postdoctoral Fellow
 
 organizations:
 - name: University of Wisconsin-Madision
