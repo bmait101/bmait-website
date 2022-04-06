@@ -52,7 +52,7 @@ social:
 highlight_name: false
 ---
 
-I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, Msc, PhD) from universities in the USA and Canada. 
+I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, Msc, PhD) from universities in the USA and Canada. 
 
 My *raison d'être* is to advance the science and practice of conserving biological diversity and ecosystem function. Or in other words, I am a conservation ecologist who applies collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems that human activity have precipitated in the *Anthropocene*. My aim is thus to provide science-based evidence to influence policy and social behaivor for the conservation and preservation of our planet's biowealth. 
 
