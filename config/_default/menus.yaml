@@ -17,12 +17,12 @@ main:
   - name: Teaching
     url: 'teaching/'
     weight: 30
-  - name: Pubs
-    url: 'publication/'
-    weight: 40
+  # - name: Pubs
+  #   url: 'publication/'
+  #   weight: 40
   - name: Photos
     url: 'photos/'
-    weight: 50
+    weight: 40
   - name: CV
     url: uploads/cv.pdf
-    weight: 70
+    weight: 50
