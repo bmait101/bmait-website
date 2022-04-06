@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Bryan M Maitland # Website name
 baseurl: 'https://bryan-m-maitland.netlify.app' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Bryan M Maitland' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

@@ -3,17 +3,21 @@
 title: Bryan M Maitland
 superuser: true
 role: Wisconsin Water Resources Science-Policy Postdoc Fellow
+
 organizations:
-- name: University of Wisconsin-Madision & Wisconsin Department of Natural Resouces
+- name: University of Wisconsin-Madision
   url: https://www.wisc.edu/
+  
+- name: Wisconsin Department of Natural Resources
+  url: https://dnr.wisconsin.gov/
 
 # Interests to show in About widget
 interests:
-- freshwater ecology
-- conservation biology
-- food webs 
-- fisheries
-- water resources management
+- Freshwater Ecology
+- Conservation Biology
+- Food Webs 
+- Fisheries
+- Water Resources Management
 
 # Education to show in About widget
 education:
