@@ -5,8 +5,8 @@ theme: "starter-hugo-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Bryan M Maitland # Website name
-baseurl: 'https://bryan-m-maitland.netlify.app' # Website URL
-copyright: '© {year} Bryan M Maitland' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://bryan-m-maitland.netlify.app'
+copyright: '© {year} Bryan M Maitland'
 
 ############################
 ## LANGUAGE
