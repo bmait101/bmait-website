@@ -18,7 +18,6 @@ interests:
 - Conservation Biology
 - Food Webs 
 - Fisheries
-- Water Resources Management
 
 # Education to show in About widget
 education:
