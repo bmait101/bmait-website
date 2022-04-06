@@ -57,6 +57,6 @@ I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed
 
 My *raison d'être* is to advance the science and practice of conserving biological diversity and ecosystem function. Or in other words, I am a conservation ecologist who applies collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems that human activity have precipitated in the *Anthropocene*. My aim is thus to provide science-based evidence to influence policy and social behaivor for the conservation and preservation of our planet's biowealth. 
 
-For more information, view my {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}}.
+For more information, view my {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}} or [publication list](https://scholar.google.ca/citations?user=tGn-FzAAAAAJ&hl=en).
 
 and publications list. 
