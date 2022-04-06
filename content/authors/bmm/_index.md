@@ -42,14 +42,13 @@ social:
   link: https://github.com/bmait101
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bmaitland101@gmail.com'
+  link: mailto:bmaitland101@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 
-I am a conservation ecologist interested in applying collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems. I got my PhD at the University of Wyoming, advised by Dr. Frank Rahel. My dissertation focused on using ecological models and stable isotopes to investigate broad-scale patterns of aquatic food webs and fish communities.
+I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, Msc, PhD) from universities in the USA and Canada. 
 
-Currently, I am a Wisconsin Water Resources Science-Policy Fellow working at the Wisconsin Department of Natural Resources on a project working to untangle the effects of climate change on stream trout populations. Using field data and a variety of models, we evaluating the potential impacts of extreme weather events, warming, and groundwater withdrawals on Brook and Brown Trout across Wisconsin. 
+My *raison d'être* is to advance the science and practice of conserving biological diversity and ecosystem function. Or in other words, I am a conservation ecologist who applies collaborative science to advance fundamental knowledge and develop actionable solutions to real-world problems that human activity have precipitated in the *Anthropocene*. My aim is thus to provide science-based evidence to influence policy and social behaivor for the conservation and preservation of our planet's biowealth. 
 
-Beyond research, I am dedicated to doing my best to train and mentor tomorrow's problem solvers. I enjoy participating in scientific outreach, as well as learning how to become a better communicator. I have a passion for the outdoors and being near water, and can usually be found stream-side with my dog, Brook. 
