@@ -46,7 +46,7 @@ social:
   link: https://github.com/bmait101
 - icon: envelope
   icon_pack: fas
-  link: bmaitland101@gmail.com
+  link: mailto::bmaitland101@gmail.com
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
