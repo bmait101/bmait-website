@@ -44,9 +44,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/bmait101
-- icon: envelope
-  icon_pack: fas
-  link: mailto::bmaitland101@gmail.com
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-4491-5064
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/bryan-maitland-b8b04522b/
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
