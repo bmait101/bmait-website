@@ -20,7 +20,7 @@ twitter: 'https://twitter.com/BryanMaitland'
 
 # Contact (edit or remove options as required)
 
-email: bmaitland101 (at) gmail.com
+email: bmaitland101@gmail.com
 # phone: 888 888 88 88
 # address:
 #   street: 450 Serra Mall
@@ -69,7 +69,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
+  - latex
+math: true
 diagram: false
 privacy_pack: false
 edit_page:
