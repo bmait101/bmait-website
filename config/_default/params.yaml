@@ -8,7 +8,7 @@
 theme: minimal
 day_night: FALSE
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
@@ -37,6 +37,8 @@ email: bmaitland101 (at) gmail.com
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
+
+
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -47,19 +49,19 @@ contact_links:
 # Site header
 
 main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: true
-  show_search: true
-  highlight_active_link: true
-  
+  enable: true  # Display the navigation bar?
+  align: l      # Align menu links: left (l), center (c), or right (r)
+  show_logo: true  # Display your site title or `assets/media/logo*` image in the nav bar?
+  show_translations: false # Show a language chooser (if you have translated your site content)?
+  show_language: false  # If `show_translations` is enabled, do you wish to display the current language name?
+  show_day_night: true  # Let the user override the default light/dark mode of your theme?
+  show_search: true # Let the user search from the nav bar?
+  highlight_active_link: true # Attempt to automatically highlight the active menu link?
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
+date_format: 'Monday, 02 Jan 2006'
+time_format: '15:04'
 address_format: en-us
 
 # Site features

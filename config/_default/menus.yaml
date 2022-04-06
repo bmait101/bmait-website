@@ -1,9 +1,10 @@
 # Navigation Links
 
-# To link a homepage widget, specify the URL as a hash `#` followed 
+# To link a homepage widget (section), specify the URL as a hash `#` followed 
 # by the filename of the desired widget in your `content/home/` folder.
 
 # The weight parameter defines the order that the links will appear in.
+# Here we use multiples of ten so that it’s easier to change the order in the future if we have many menu items.
 
 
 main:
