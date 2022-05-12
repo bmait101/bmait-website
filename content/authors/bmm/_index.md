@@ -55,10 +55,8 @@ social:
 highlight_name: false
 ---
 
-I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, MSc, PhD) from universities in the USA and Canada. 
+I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, MSc, PhD) from universities in the USA and Canada. I work as both a pure and an applied ecologist and I am particularly keen on working at the interface between the two disciplines. 
 
-My mission is to advance the science and practice of conserving freshwater ecosystems. As a conservation ecologist, I apply collaborative science to advance basic ecological knowledge, and then leverage that knowledge to develop actionable solutions to real-world problems that human activity has precipitated in the *Anthropocene*. In other words, I work to provide science-based evidence to influence policy and social behavior for the conservation and preservation of our planet's freshwater biowealth. 
-
-While I have research experience ranging from environmental flows and stream depletion management to examining reciprocal effects of large carnivore reintroductions, my primary research themes include 1) conservation ecology of freshwater fishes, 2) food web / trophic ecology, and 3) macroecology. I use mathematical modeling, large data syntheses, biochemical tracers like stable isotopes, and comparative field studies to answer my research questions. 
+My mission is to advance the science and practice of conserving freshwater ecosystems. As an ecologist, I study the structure and function of freshwater ecosystems in response to environmental change. My aim is to integrate science-based approaches with on-the-ground management decisions. I also actively engage in science communication and community science efforts. 
 
 For more information, view my {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}} or [publication list](https://scholar.google.ca/citations?user=tGn-FzAAAAAJ&hl=en).
