@@ -2,7 +2,7 @@
 widget: blank
 headless: true
 
-title: Feshwater Ecology in a Warming World
+title: Freshwater Ecology in a Warming World
 subtitle:
 weight: 30  # section position on page
 design:
