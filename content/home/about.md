@@ -12,10 +12,7 @@ headless: true
 weight: 20
 
 # Section title
-title: Freshwater Ecology in a Warming World
-
-# Section subtitle
-subtitle: Welcome!
+title: Welcome!
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
