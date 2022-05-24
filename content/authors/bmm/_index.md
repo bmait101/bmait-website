@@ -55,6 +55,6 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist who uses field studies, statistical techniques, and biochemical tracers to understand ecological systems, then applies that knowledge to conservation practice. My mission is to advance the science and practice of conserving freshwater ecosystems, so I also actively engage in science communication and community outreach efforts.
+I am a quantitative ecologist who uses field studies, statistical techniques, and biochemical tracers to understand ecological systems, then applies that knowledge to conservation practice.
 
-I am currently a Wisconsin Water Resources Science-Policy Postdoctoral Fellow at the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and [Wisconsin Department of Natural Resources Fisheries Bureau](https://dnr.wisconsin.gov/). 
+I am currently a Wisconsin Water Resources Science-Policy Postdoctoral Fellow at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Department of Natural Resources Fisheries Bureau](https://dnr.wisconsin.gov/). 
