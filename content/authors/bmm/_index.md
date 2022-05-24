@@ -55,8 +55,6 @@ social:
 highlight_name: false
 ---
 
-I am a Wisconsin Water Resources Science-Policy Postdoctoral Fellow co-appointed between the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and the [Wisconsin Department of Natural Resources](https://dnr.wisconsin.gov/). I completed three postgraduate degrees in ecology (BS, MSc, PhD) from universities in the USA and Canada. I work as both a pure and an applied ecologist and I am particularly keen on working at the interface between the two disciplines. 
+I am a quantitative ecologist who uses field studies, statistical techniques, and biochemical tracers to understand ecological systems, then applies that knowledge to conservation practice. My mission is to advance the science and practice of conserving freshwater ecosystems, so I also actively engage in science communication and community outreach efforts.
 
-My mission is to advance the science and practice of conserving freshwater ecosystems. As an ecologist, I study the structure and function of freshwater ecosystems in response to environmental change. My aim is to integrate science-based approaches with on-the-ground management decisions. I also actively engage in science communication and community science efforts. 
-
-For more information, view my {{% staticref "uploads/cv.pdf" %}}CV{{% /staticref %}} or [publication list](https://scholar.google.ca/citations?user=tGn-FzAAAAAJ&hl=en).
+I am currently a Wisconsin Water Resources Science-Policy Postdoctoral Fellow at the [University of Wisconsin-Madison's](https://www.wisc.edu/) [Aquatic Sciences Center](https://aqua.wisc.edu/) and [Wisconsin Department of Natural Resources Fisheries Bureau](https://dnr.wisconsin.gov/). 
