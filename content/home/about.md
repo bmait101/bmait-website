@@ -12,7 +12,8 @@ headless: true
 weight: 20
 
 # Section title
-title: Welcome!
+title: Freshwater Ecology and Conservation in a Changing World
+subtitle: Welcome!
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
