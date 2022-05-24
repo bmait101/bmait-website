@@ -14,8 +14,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-- Freshwater Ecology
-- Conservation Biology
+- Freshwater Ecosystems
+- Animal Ecology
+- Conservation
 - Food Webs 
 - Fisheries
 
