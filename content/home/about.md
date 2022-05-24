@@ -12,7 +12,9 @@ headless: true
 weight: 20
 
 # Section title
-title: Freshwater Ecology and Conservation in a Changing World
+title: Freshwater Ecology in a Warming World
+
+# Section subtitle
 subtitle: Welcome!
 
 # Choose the user profile to display
