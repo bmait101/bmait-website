@@ -16,4 +16,10 @@ title: Welcome!
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 author: bmm
+
+design:
+  background:
+    color: 'green'
+    # Text color (true=light, false=dark, or remove for the dynamic theme color). 
+    text_color_light: true
 ---
