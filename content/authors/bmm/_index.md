@@ -58,4 +58,4 @@ highlight_name: false
 
 I am a quantitative ecologist and a Wisconsin Water Resources Science-Policy Postdoctoral Fellow at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Department of Natural Resources Fisheries Bureau](https://dnr.wisconsin.gov/). 
 
-I study fish, food webs, and fisheries to improve the conservation, management, and resilience of aquatic ecosystems and the human communities that depend on them. I am also committed to building a more inclusive and intersectional workfoce and conservation environment, and spend a lot of time in streams. 
+I study fish, food webs, and fisheries to improve the conservation, management, and resilience of aquatic ecosystems and the human communities that depend on them. I am also committed to building a more inclusive and intersectional workforce and conservation environment, and spend a lot of time in streams. 
