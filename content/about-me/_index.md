@@ -14,8 +14,14 @@ My work has afforded me the privilege of working in some of the most beautiful p
 <img align="right" src="static/media/boards.jpg" alt="board" width="300" style="margin-top: 20px">
 
 
+{{< figure src="static/media/boards.jpg" caption="A caption" numbered="true" >}}
+
+
 {{< figure src="boards.jpg" caption="A caption" numbered="true" >}}
 
 
 ![screen reader text](boards.jpg "caption")
+
+
+![screen reader text](static/media/boards.jpg "caption")
 
