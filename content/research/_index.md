@@ -5,16 +5,18 @@
 
 ***Page Under Development***
 
+<p style="text-align: center; font-size: 20pt;">Freshwater Conservation Ecology in a Changing World</p>
+
 <br> 
 
-We live in unprecedented times: big data, rapidly improving analytical tools and computing power, and long-term monitoring programs are enabling researchers to answer previously unanswerable questions. I use these tools to understand the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. A common element spanning my research is an explicit emphasis of using quantitative approaches for data analysis and inference. And I work to co-produce actionable science through start-to-finish engagement with collaborators and stakeholders. 
+Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of our freshwater ecosystems and animal poulations are declining at a rapid clip from numerous, interacting factors. So, I use a variety of tools to quantify the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. And I strive to co-produce actionable science through start-to-finish engagement with collaborators and stakeholders.
 
-I do integrative research that spans several fields, including community ecology, physiology, restoration, and global change biology. My research has three primary foci:
+Broadly, my research focuses on the ecology and conservation of fishes (particularly freshwater ones), with and emphasis on responces to global chnage, trophic ecology, and environmental flows.
 
 
 ### Global Change
 
 ### Food Webs
 
-### Macroecology
+### Environmental Flows
 

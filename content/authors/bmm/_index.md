@@ -12,26 +12,25 @@ organizations:
 - name: Wisconsin Department of Natural Resources
   url: https://dnr.wisconsin.gov/
 
-# Interests to show in About widget
-interests:
-- Freshwater Ecosystems
-- Animal Ecology
-- Conservation
-- Food Webs 
-- Fisheries
-
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Ecology
-    institution: University of Wyoming
-    year: 2020
-  - course: MSc in Conservation Biology
-    institution: University of Alberta
-    year: 2015
-  - course: BSc in Conservation Biology
-    institution: SUNY-College of Environmental Science and Forestry
-    year: 2011
+# # Interests to show in About widget
+# interests:
+# - Freshwater Fish Ecology
+# - Conservation Biology
+# - Food Webs 
+# - Fisheries
+# 
+# # Education to show in About widget
+# education:
+#   courses:
+#   - course: PhD in Ecology
+#     institution: University of Wyoming
+#     year: 2020
+#   - course: MSc in Conservation Biology
+#     institution: University of Alberta
+#     year: 2015
+#   - course: BSc in Conservation Biology
+#     institution: SUNY-College of Environmental Science and Forestry
+#     year: 2011
 
 # Icons
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -56,6 +55,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist and a Wisconsin Water Resources Science-Policy Postdoctoral Fellow at the [University of Wisconsin-Madison](https://www.wisc.edu/) and [Wisconsin Department of Natural Resources Fisheries Bureau](https://dnr.wisconsin.gov/). 
-
-I study fish, food webs, and fisheries to improve the conservation, management, and resilience of aquatic ecosystems and the human communities that depend on them. I am also committed to building a more inclusive and intersectional workforce and conservation environment, and spend a lot of time in streams. 
+I am a quantitative ecologist who works on the ecology and conservation of fishes (especially freshwater ones) and spend a lot of time in streams. 
