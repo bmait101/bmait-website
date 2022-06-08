@@ -3,6 +3,11 @@
 
 ---
 
+
+***Page Under Development***
+
+<br> 
+
 My goal as a teacher and educator is to prepare students to be diverse professionals that evaluate ideas based on evidence and apply that knowledge to address the wicked challenges facing society today.
 
 ### Accomplishments

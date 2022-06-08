@@ -3,11 +3,14 @@
 
 ---
 
-My research program spans multiple levels of biological organization and modes of inquiry to advance the science and practice of conserving ecosystems. My interests include conservation biology (science and implementation at local to regional scales), community ecology (freshwater fishes, invertebrates), food web ecology (niche variation and stable isotopes) ecohydrology (environmental flows, groundwater management), and climate change (impacts and adaptation strategies). 
+***Page Under Development***
 
-I draw liberally from theory underpinning modern ecology to develop hypotheses, and I then I test predictions of these hypotheses with a combination of comparative field studies, stable isotope analyses, and large data syntheses. A common element spanning my research is an explicit emphasis of using quantitative approaches for data analysis and inference. And I work to co-produce actionable science through start-to-finish engagement with collaborators and stakeholders. 
+<br> 
 
-My research have three primary foci:
+We live in unprecedented times: big data, rapidly improving analytical tools and computing power, and long-term monitoring programs are enabling researchers to answer previously unanswerable questions. I use these tools to understand the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. A common element spanning my research is an explicit emphasis of using quantitative approaches for data analysis and inference. And I work to co-produce actionable science through start-to-finish engagement with collaborators and stakeholders. 
+
+I do integrative research that spans several fields, including community ecology, physiology, restoration, and global change biology. My research has three primary foci:
+
 
 ### Global Change
 
