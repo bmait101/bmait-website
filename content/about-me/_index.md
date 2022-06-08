@@ -11,17 +11,7 @@ title: "About Me"
 My work has afforded me the privilege of working in some of the most beautiful places in the world. 
 
 
-<img align="right" src="static/media/boards.jpg" alt="board" width="300" style="margin-top: 20px">
+{{< figure src="madison.jpg" caption="Aerial view of the Wisconsin Capitol and surrounding neighborhoods in Madison, Wisconsin Original image from Carol M. Highsmith’s America, Library of Congress collection. CC0 1.0." numbered="true" >}}
 
 
-{{< figure src="static/media/boards.jpg" caption="A caption" numbered="true" >}}
-
-
-{{< figure src="boards.jpg" caption="A caption" numbered="true" >}}
-
-
-![screen reader text](boards.jpg "caption")
-
-
-![screen reader text](static/media/boards.jpg "caption")
 
