@@ -3,21 +3,22 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: Wisconsin Water Resources Science-Policy Postdoctoral Fellow
+role: EPA Postdoctoral Fellow
 
 organizations:
-- name: University of Wisconsin-Madision
-  url: https://www.wisc.edu/
+- name: Ceneter for Limnology, UW-Madision
+  url: https://limnology.wisc.edu/
   
-- name: Wisconsin Department of Natural Resources
-  url: https://dnr.wisconsin.gov/
+- name: Environmental Protection Agency
+  url: https://www.epa.gov/
 
 # # Interests to show in About widget
 # interests:
-# - Freshwater Fish Ecology
+# - Freshwater Ecology
 # - Conservation Biology
 # - Food Webs 
 # - Fisheries
+# - Fish biology
 # 
 # # Education to show in About widget
 # education:
@@ -55,4 +56,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist who works on the ecology and conservation of fishes (especially freshwater ones) and spend a lot of time in streams. 
+I am a quantitative ecologist who uses theory and statistical tools to understand ecological systems, then applies that knowledge to guide conservation and inform policy.  
