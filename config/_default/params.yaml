@@ -8,7 +8,7 @@
 theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: S
 
 # SEO
 
@@ -50,7 +50,7 @@ contact_links:
 
 main_menu:
   enable: true  # Display the navigation bar?
-  align: l      # Align menu links: left (l), center (c), or right (r)
+  align: r      # Align menu links: left (l), center (c), or right (r)
   show_logo: true  # Display your site title or `assets/media/logo*` image in the nav bar?
   show_translations: false # Show a language chooser (if you have translated your site content)?
   show_language: false  # If `show_translations` is enabled, do you wish to display the current language name?
