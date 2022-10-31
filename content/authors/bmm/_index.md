@@ -3,24 +3,23 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: EPA Postdoctoral Fellow
+role: UW-EPA Postdoctoral Fellow
 
 organizations:
-- name: Ceneter for Limnology, UW-Madision
+- name: UW-Madision Ceneter for Limnology
   url: https://limnology.wisc.edu/
   
 - name: Environmental Protection Agency
   url: https://www.epa.gov/
 
-# # Interests to show in About widget
+# Interests to show in About widget
 # interests:
-# - Freshwater Ecology
-# - Conservation Biology
-# - Food Webs 
+# - Conservation
+# - Ecology
+# - Food Webs
 # - Fisheries
-# - Fish biology
-# 
-# # Education to show in About widget
+
+# Education to show in About widget
 # education:
 #   courses:
 #   - course: PhD in Ecology
@@ -56,4 +55,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist who uses theory and statistical tools to understand ecological systems, then applies that knowledge to guide conservation and inform policy.  
+I am a quantitative ecologist who uses theory and statistical tools to understand ecological systems (especially streams, rivers, and lakes), then applies that knowledge to guide conservation and inform policy.  
