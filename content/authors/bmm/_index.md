@@ -55,4 +55,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist who uses theory and statistical tools to understand ecological systems (especially streams, rivers, and lakes), then applies that knowledge to guide conservation and inform policy.  
+I am a conservation ecologist who uses theory and statistical tools to understand ecological systems (especially streams, rivers, and lakes), then applies that knowledge to inform policy.
