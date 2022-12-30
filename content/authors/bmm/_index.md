@@ -8,6 +8,9 @@ role: UW-EPA Postdoctoral Fellow
 organizations:
 - name: UW-Madision Ceneter for Limnology
   url: https://limnology.wisc.edu/
+
+- name: UW-Madision Aquatic Science Center
+  url: https://aqua.wisc.edu/
   
 - name: Environmental Protection Agency
   url: https://www.epa.gov/
