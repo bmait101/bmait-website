@@ -6,7 +6,7 @@
 # Appearance
 
 theme: minimal
-day_night: true
+day_night: false
 font: ''
 font_size: M
 
@@ -54,7 +54,7 @@ main_menu:
   show_logo: true  # Display your site title or `assets/media/logo*` image in the nav bar?
   show_translations: false # Show a language chooser (if you have translated your site content)?
   show_language: false  # If `show_translations` is enabled, do you wish to display the current language name?
-  show_day_night: true  # Let the user override the default light/dark mode of your theme?
+  show_day_night: false  # Let the user override the default light/dark mode of your theme?
   show_search: true # Let the user search from the nav bar?
   highlight_active_link: true # Attempt to automatically highlight the active menu link?
 
