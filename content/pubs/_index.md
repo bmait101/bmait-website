@@ -3,7 +3,7 @@
 
 ---
 
-<p font-size:20pt; font-weight:bold; style="color:LightGrey;">2022</p>
+<p font-size:28pt; font-weight:bold; style="color:LightGrey;">2022</p>
 
 **Maitland, B.M.**, Latzka, A.L. 2022. Shifting climate conditions affect recruitment in Midwestern stream trout, but depend on seasonal and spatial context. Ecosphere 13(12): e4308. [Link](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecs2.4308) | [Data + Code](https://github.com/bmait101/swass)
 
