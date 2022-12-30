@@ -3,23 +3,26 @@
 
 ---
 
-<p style="text-align: center; font-size: 20pt;">Freshwater Science in a Changing World</p>
+<p style="text-align: center; font-size: 20pt;">Freshwater Ecology in a Changing World</p>
 
 <br> 
 
-Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. So my **raison d'être** is to understand the future of inland waters in an urbanizing environment and changing climate. To do that, I study how terrestrial and atmospheric changes, such as rising air temperatures and land-use patterns, alter aquatic communities and food web processes. Importantly, I endeavor to co-produce science that is actionable through start-to-finish engagement with collaborators and stakeholders.
-
-Broadly, my research program combines themes from population, community, and landscape ecology, and focuses on the ecology and conservation of fishes (particularly freshwater ones). It also spans spatial scales, from local, single lakes or stream reaches, to watersheds and whole regions. 
+Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. 
+I am a quantitative ecologist who uses a combination of comparative field studies, laboratory experiments, and large data syntheses to quantify the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. I do integrative research that spans several fields, including conservation biology (science and restoration at local to regional scales), organismal, population and community ecology (freshwater fishes, invertebrates), food web ecology (niche variation and stable isotopes), ecohydrology (environmental flows, groundwater management), and climate change (impacts and adaptation strategies). My research has four primary foci:
 
 
 ### Global change & multiple stressors
 
-Species today face wicked problems such as land-use change, rising air temperatures, non-native species, and emerging contaminants. I am interested in untangling the effects of these multiple stressors to inform policy and guide the prioritization of conservation actions.  
+Species today face wicked problems such as land-use change, extreme weather, non-native species, and emerging contaminants. I am working to untangle the effects of multiple stressors to inform policy and guide the prioritization of conservation actions.  
 
-### Food web ecology and species interactions
+### Food web ecology
 
-Ecologists have long searched for structures and processes that impart stability in nature. Food webs have emerged as a central organizing concept in ecology because they 1) link structure and function within ecosystems (e.g., species identity and behavior (foraging) with biogeochemical cycles (matter and energy flow), and 2) bridge levels of biological organization (organism to population and community). I am interested in teasing apart the interplay between top-down (predation) and bottom-up (primary productivity) processes, and in how that interplay can stabilize or destabilize ecological communities and whole ecosystems. 
+Ecologists have long searched for structures and processes that impart stability in nature. Food webs have emerged as a central organizing concept in ecology because they 1) link structure and function within ecosystems (e.g., species identity and behavior (foraging) with biogeochemical cycles (matter and energy flow), and 2) bridge levels of biological organization (organism to population and community). I am working to understand the interplay between top-down (predation) and bottom-up (primary productivity) processes, and how that interplay can stabilize or destabilize ecological communities and whole ecosystems. 
 
 ### Flow regimes
 
-Flow is a keystone variable in flowing water ecosystems. I am interested in how stream hydrology and fish populations respond to climate, water use, and management changes. 
+Stream flow is a keystone variable in flowing water ecosystems. I am interested in how stream hydrology and fish populations respond to climate, water use, and management changes. And I am working to advance environmental flows approaches for streamflow management and make these methods more accessible for biologists and managers. 
+
+### Conservation
+
+Applying ecological research to conserve and restore ecosystems, and the biological communities that inhabit them, is my motivation in life. This works best when we can find win-win situations in which both biodiversity and people benefit. So, much of my work revolves around leveraging ecological research to inform conservation action, which I do by co-producing science that is actionable through start-to-finish engagement with collaborators and stakeholders. 
