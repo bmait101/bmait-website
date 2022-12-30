@@ -10,6 +10,8 @@
 Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. 
 I am a quantitative ecologist who uses a emerging anlaytical tools and big data to quantify the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. I do integrative research that spans several fields, including conservation biology, population and community ecology, food web ecology, ecohydrology. My research has three primary foci:
 
+<br> 
+
 ---
 
 ## **Global change & multiple stressors**
