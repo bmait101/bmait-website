@@ -58,4 +58,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist at the University of Wisconsin-Madison who uses theory and emerging statistical tools to better understand ecological systems (especially streams, rivers, and lakes), then applies that knowledge to conservation practice. 
+I am a quantitative ecologist at the University of Wisconsin-Madison working on freshwater conservation and management.
