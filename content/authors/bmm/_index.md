@@ -3,24 +3,22 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: UW-EPA Postdoctoral Fellow
+role: Research Associate
 
 organizations:
-- name: UW-Madision Ceneter for Limnology
-  url: https://limnology.wisc.edu/
-
-- name: UW-Madision Aquatic Science Center
-  url: https://aqua.wisc.edu/
+- name: Hydroecology Group, UW—Madison
+  url: https://hydroecology.cee.wisc.edu/
   
-- name: Environmental Protection Agency
-  url: https://www.epa.gov/
+- name: Center for Limnology, UW-Madison 
+  url: https://limnology.wisc.edu/
+  
 
 # Interests to show in About widget
 # interests:
-# - Conservation
 # - Ecology
-# - Food Webs
+# - Conservation biology
 # - Fisheries
+# - Food Webs
 
 # Education to show in About widget
 # education:
