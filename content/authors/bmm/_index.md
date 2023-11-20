@@ -3,7 +3,7 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: Research Associate
+role: Postdoctoral Research Scientist
 
 organizations:
 - name: Hydroecology Group, UW—Madison
@@ -36,9 +36,6 @@ organizations:
 # Icons
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 social:
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/BryanMaitland
 - icon: google-scholar  
   icon_pack: ai
   link: https://scholar.google.ca/citations?user=tGn-FzAAAAAJ&hl=en
