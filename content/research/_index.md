@@ -5,12 +5,10 @@
 
 <p style="text-align: center; font-size: 24pt; font-weight:bold">Freshwater Ecology in a Changing World</p>
 
-<br> 
+# Freshwater Ecology in a Changing World
+**Page under construction**
 
-Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. 
-I am a quantitative ecologist who uses a emerging anlaytical tools and big data to quantify the mechanisms that shape ecological processes, then apply that knowledge to conservation practice. I do integrative research that spans several fields, including conservation biology, population and community ecology, food web ecology, ecohydrology. My research has three primary foci:
-
-<br> 
+Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. Therefore, realizing fisheries and freshwater conservation goals against a backdrop of extreme climate and land use change is a key natural resource management challenge facing society today. My research seeks to uncover and understand  patterns and processes in nature while conserving naturally functioning ecosystems. I work toward this vision with a research program that is quantitative in nature, based in fundamental ecology and ecological theory, and conducted to address the needs of fishery managers and conservation practitioners. I am broadly interested in conservation biology (science and implementation at local to regional scales), population and community ecology (freshwater fishes), food web ecology (niche variation, stability, and stable isotopes), and climate change (impacts and adaptation strategies). 
 
 ---
 
