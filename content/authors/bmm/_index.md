@@ -53,4 +53,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist at the University of Wisconsin-Madison working on freshwater conservation and management.
+I am a quantitative ecologist at the University of Wisconsin-Madison working on fisheries and freshwater conservation and management.
