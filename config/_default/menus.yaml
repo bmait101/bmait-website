@@ -17,8 +17,8 @@ main:
   - name: Publications
     url: 'pubs/'
     weight: 30
-  - name: About Me
-    url: 'about-me/'
+  - name: People
+    url: 'people/'
     weight: 40
   - name: CV
     url: uploads/cv.pdf

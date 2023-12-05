@@ -4,7 +4,7 @@
 
 <p style="text-align: center; font-size: 24pt; font-weight:bold">Freshwater Ecology in a Changing World</p>
 
-*Page under construction*
+------------------------------------------------------------------------
 
 Freshwater ecosystems provide us with a multitude of services and host remarkable biodiversity. But the health of these systems is declining at a rapid clip from numerous, interacting threats. Therefore, realizing fisheries and freshwater conservation goals against a backdrop of extreme climate and land use change is a key natural resource management challenge facing society today. My research seeks to uncover and understand patterns and processes in nature while conserving or enhancing functioning ecosystems. I work toward this vision with a research program that is quantitative in nature, based in fundamental ecology and ecological theory, and conducted to address the needs of fishery managers and conservation practitioners. My approach is fundamentally problem driven rather than discipline driven, which is why the totality of projects I've worked on is broad and draws on diverse concepts and methods.
 
