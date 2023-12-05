@@ -53,5 +53,4 @@ social:
 highlight_name: false
 ---
 
-I am a fish and freshwater ecologist at the University of Wisconsin-Madison. My research is collaborative in nature, and focuses on (i) basic and applied ecological science to understand how species and communities respond to environmental changes at local to landscape scales, (ii) technology transfer to get concepts, methods, and results into the hands of practitioners, regulators, and stakeholders. I also balance my research goals with teaching, mentoring, service, and outreach. 
-
+I am a quantitative ecologist at the University of Wisconsin-Madison with broad research interests in community dynamics and structure, food web interactions, and conservation biology. I enjoy linking theory with data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes.
