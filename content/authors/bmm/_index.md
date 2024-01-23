@@ -3,14 +3,11 @@
 title: Bryan M Maitland
 email: bmaitland101@gmail.com
 superuser: true
-role: Postdoctoral Research Scientist
+role: Research Fish Biologist
 
 organizations:
-- name: Hydroecology Group, UW—Madison
-  url: https://hydroecology.cee.wisc.edu/
-  
-- name: Center for Limnology, UW-Madison 
-  url: https://limnology.wisc.edu/
+- name: U.S. Forest Service Rocky Mountain Research Station
+  url: https://www.fs.usda.gov/research/rmrs
   
 
 # Interests to show in About widget
@@ -53,4 +50,4 @@ social:
 highlight_name: false
 ---
 
-I am a quantitative ecologist at the University of Wisconsin-Madison with broad research interests in community dynamics and structure, food web interactions, and conservation biology. I enjoy linking theory with data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes.
+I am a Research Fish Biologist in the [Water and Watersheds Program](https://www.fs.usda.gov/research/rmrs/programs/waterwatersheds) at the U.S. Forest Service [Rocky Mountain Research Station](https://www.fs.usda.gov/research/rmrs) working out of Boise, ID. I enjoy linking theory with big data, and I strive to address pressing ecological and conservation questions while remaining grounded in empiricism. I also have long-standing professional and personal interests in the ecology, conservation, and natural history of fishes. 
